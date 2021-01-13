@@ -1,3 +1,49 @@
-div {
-	text-align: center;
+h3{
+	font-size: 20px;
 }
+/*header */
+.navbar-brand{
+	height:auto;
+}
+
+.navbar-toggle{
+	margin-top: 14px;
+}
+.navbar-brand h1{
+	color: #111;
+	margin:0;
+	font-size: 30px;
+}
+
+
+.navbar-collapse-contents{
+	text-align: center;
+	color: #444;
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color: #fff;
+}
+.navbar-collapse-contents li {
+	border-bottom :#111 solid 1px;
+
+}
+
+#chicken{
+	border-top :#111 solid 1px;
+}
+
+.navbar{
+	background-color: #ccc;
+}
+/*header end*/
+
+
+.textp-center{
+	font-size: 26px;
+}
+
+.rows{
+	background-color: #aaa;
+	margin:0 0 15px;
+}
+
